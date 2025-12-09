@@ -1,0 +1,14 @@
+{
+  "wramos": {
+    "password": "1234",
+    "technicianName": "Walter Ramos",
+    "role": "Limpieza",
+    "email": "wramos@enofir.com"
+  },
+  "jdoe": {
+    "password": "abcd",
+    "technicianName": "Juan Doe",
+    "role": "Programación",
+    "email": "juan@example.com"
+  }
+}
